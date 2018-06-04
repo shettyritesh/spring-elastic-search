@@ -58,6 +58,6 @@ https://github.com/kubernetes/kops/blob/master/docs/aws.md
 Need to add instructions to deploy the code to a Kubernetes cluster on AWS   	
 	
 	  
-**Known Issues**
-Need to configure the code to work with external elastic search server
-Deployment to AWS is pending.
+**Known Issues**  
+Need to configure the code to work with external elastic search server  
+Deployment to AWS is pending.  
